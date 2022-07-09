@@ -135,14 +135,6 @@
 > GitHub Visitors Count
 
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/{K-0817}/count.svg" /></p> 
-</div>
-
-<p align="center">
-    <img alt="snake animation" title="Snake Animation" src="https://github.com/K-0817/K-0817/blob/main/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-<p align="center">
     <img 
       alt="snake animation"
       title="Snake Animation" 
