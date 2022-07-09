@@ -7,9 +7,7 @@
 > Contact Info
 
 <p>Business Mail: seniordeveloper0817@gmail.com</p>
-<p>Skype: live:.cid.6c9a3d6ab629ef5f</p>
-<p>WhatsApp: +48727848432</p>
-<p>Telegram: @seniordev1019</p>
+
 <!--
 **K-0817/K-0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
