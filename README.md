@@ -109,15 +109,15 @@
 
 > GitHub Profile Status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=senior-developer1019&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senior-developer1019&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+    <img src="https://github-readme-stats.vercel.app/api?username=K-0817&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-0817&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
 
 <br />
 
 > GitHub Activity Graph
-<!-- https://github.com/senior-developer1019/github-readme-activity-graph -->
-<a href="https://github.com/senior-developer1019/senior-developer1019"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=senior-developer1019&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- https://github.com/K-0817/github-readme-activity-graph -->
+<a href="https://github.com/K-0817/K-0817"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=K-0817&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
